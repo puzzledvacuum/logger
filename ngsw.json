@@ -1,16 +1,13 @@
 {
   "configVersion": 1,
-  "timestamp": 1563602026859,
+  "timestamp": 1563602552739,
   "index": "https://puzzledvacuum.github.io/logger/logger/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
-      "urls": [
-        "https://puzzledvacuum.github.io/logger/favicon.ico",
-        "https://puzzledvacuum.github.io/logger/index.html"
-      ],
+      "urls": [],
       "patterns": []
     },
     {
@@ -22,10 +19,7 @@
     }
   ],
   "dataGroups": [],
-  "hashTable": {
-    "https://puzzledvacuum.github.io/logger/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://puzzledvacuum.github.io/logger/index.html": "70f83e20a1296fb6164835e5128b788597d5ae5e"
-  },
+  "hashTable": {},
   "navigationUrls": [
     {
       "positive": true,
