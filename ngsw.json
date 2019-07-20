@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563602649618,
+  "timestamp": 1563603252138,
   "index": "https://puzzledvacuum.github.io/logger/logger/index.html",
   "assetGroups": [
     {
@@ -24,18 +24,6 @@
     {
       "positive": true,
       "regex": "^\\/.*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ]
 }
